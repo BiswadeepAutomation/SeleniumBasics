@@ -20,8 +20,8 @@ public class HandleDropDown {
 		
 		
 		
-	/*	driver.findElement(By.xpath("//input[contains(@type,'email')]")).sendKeys("bsahoo@walmartlabs.com");
-		driver.findElement(By.xpath("//input[@type='password']")).sendKeys("test1234");
+	/*	driver.findElement(By.xpath("//input[contains(@type,'email')]")).sendKeys("sahoo.biswadeep@gmail.com");
+		driver.findElement(By.xpath("//input[@type='password']")).sendKeys("deep1234");
 		driver.findElement(By.xpath("//button[@class='primary full'][contains(.,'Sign in')]")).click();
 		driver.wait(10);
 		driver.findElement(By.id("sign-in-button")).click();
